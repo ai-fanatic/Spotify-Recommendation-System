@@ -1,6 +1,6 @@
 # Spotify Recommendation System and Streamlit Web App
 
-This project entails building a recommendation system in Spotify which is deployed as a web app using Streamlit. We will outline the process for accessing the Spotify Web API to extract a playlist and build a model to provide top recommendations to a user based on similarity towards other songs and audio features. Using Streamlit, we will show how this model can be deployed and accessed with music recommendations embedded for a user to listen to within a web browser. We will be using a playlist from Four Tet, an electronic music producer and DJ.
+This project entails building a recommendation system in Spotify which is deployed as a web app using Streamlit. We will outline the process for accessing the Spotify Web API to extract a playlist and build a model to provide top recommendations to a user based on similarity towards other songs and audio features. Using Streamlit, we will show how this model can be deployed and accessed with music recommendations embedded for a user to listen to within a web browser. We will be using a playlist from Four Tet, an electronic music producer and DJ!
 
 ## Goals
 
